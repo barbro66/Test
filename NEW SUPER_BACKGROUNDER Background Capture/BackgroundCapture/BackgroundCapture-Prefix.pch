@@ -1,0 +1,36 @@
+//
+// Prefix header for all source files of the 'BackgroundCapture' target in the 'BackgroundCapture' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreVideo/CoreVideo.h>
+    #import <AVFoundation/AVFoundation.h>
+    #import <MediaPlayer/MediaPlayer.h>
+    #import <DropboxSDK/DropboxSDK.h>
+    #import <CoreLocation/CoreLocation.h>
+    #import <CoreMotion/CoreMotion.h>
+#endif
+
+#ifndef DEBUG
+    #define NSLog(...) {}
+#endif
+
+// dropbox
+//#define DROPBOX_APP_KEY @"fupcfwgvhtdvqwc"
+//#define DROPBOX_APP_SECRET @"xbmo2b83tbpquky"
+
+// dropbox for 'Black Box Recorder'
+#define DROPBOX_APP_KEY @"nm8n09bt5yc1z8n"
+#define DROPBOX_APP_SECRET @"3vlq6o83k6ww42v"
+
+//Key/Secret for iOSRecorder - if you have "iOS Recorder" we should use that
+//#define DROPBOX_APP_KEY @"ckln3np9qttxcq8"
+//#define DROPBOX_APP_SECRET @"cn58r3vahgai7de"

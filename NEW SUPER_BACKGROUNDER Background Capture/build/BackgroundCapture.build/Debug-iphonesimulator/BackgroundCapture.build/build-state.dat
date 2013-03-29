@@ -1,0 +1,1895 @@
+TBackgroundCapture
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist" BackgroundCapture/BackgroundCapture-Info.plist
+cProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c000000005102E2D30000000000000110
+t1359143635
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000510A3AF300000000001EB540
+t1359624947
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c00000000510A3AF30000000000000944
+t1359624947
+s2372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000510A3AF300000000003D4DF0
+t1359624947
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510A3AF30000000000228FE0
+t1359624947
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000510A3AF4000000000009C590
+t1359624948
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c00000000510A3AF40000000000000279
+t1359624948
+s633
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000510A3AF40000000000085620
+t1359624948
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000510A3AF400000000000FB1E0
+t1359624948
+s1028576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c00000000510A3AF400000000000001CB
+t1359624948
+s459
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000510A3AF40000000000020F20
+t1359624948
+s134944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CoreVideo.h
+c00000000510A3AF4000000000000057A
+t1359624948
+s1402
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510A3AF600000000003DDFA0
+t1359624950
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000510A3AF500000000000015F7
+t1359624949
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c00000000510A3AF900000000000002C3
+t1359624953
+s707
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000510A3AF900000000002DBA50
+t1359624953
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000510A3AFB00000000001D5750
+t1359624955
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000510A3AFB000000000006E360
+t1359624955
+s451424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510A3AFB0000000000000E8D
+t1359624955
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510A3AFE0000000000AB6230
+t1359624958
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/PrivateFrameworks/GraphicsServices.framework/GraphicsServices
+c00000000510A3B080000000000021170
+t1359624968
+s135536
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/PrivateFrameworks/IOSurface.framework/IOSurface
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510A3B1D0000000000001B73
+t1359624989
+s7027
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/37x-Checkmark.png
+c00000000513D03FA0000000000000649
+t1362953210
+s1609
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/37x-Checkmark@2x.png
+c00000000513D03FA000000000000086C
+t1362953210
+s2156
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AllOrientationsTabBarController.m
+c00000000513D03FA00000000000003D4
+t1362953210
+s980
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AppDelegate.m
+c00000000513D03FA0000000000000BD2
+t1362953210
+s3026
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AudioCaptureTest.m
+c00000000513D03FA00000000000015CE
+t1362953210
+s5582
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundCapture-Prefix.pch
+c00000000513D03FA00000000000002D1
+t1362953210
+s721
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreVideo/CoreVideo.h>
+i<AVFoundation/AVFoundation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<DropboxSDK/DropboxSDK.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundScreenCapture.m
+c00000000513D03FA00000000000000EC
+t1362953210
+s236
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/Default-568h@2x.png
+c00000000513D03FA0000000000009A05
+t1362953210
+s39429
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/Default.png
+c00000000513D03FA00000000000047A9
+t1362953210
+s18345
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/Default@2x.png
+c00000000513D03FA000000000000963B
+t1362953210
+s38459
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/DropboxUpload.m
+c00000000513D03FA0000000000003B01
+t1362953210
+s15105
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/FileCell.m
+c00000000513D03FA0000000000000254
+t1362953210
+s596
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation0.png
+c00000000513D03FA000000000000337F
+t1362953210
+s13183
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation0@2x.png
+c00000000513D03FA0000000000009EF4
+t1362953210
+s40692
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation1.png
+c00000000513D03FA00000000000032FC
+t1362953210
+s13052
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation10.png
+c00000000513D03FA0000000000003394
+t1362953210
+s13204
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation10@2x.png
+c00000000513D03FA000000000000A261
+t1362953210
+s41569
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation11.png
+c00000000513D03FA00000000000033CB
+t1362953210
+s13259
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation11@2x.png
+c00000000513D03FA000000000000A129
+t1362953210
+s41257
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation12.png
+c00000000513D03FA00000000000033AA
+t1362953210
+s13226
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation12@2x.png
+c00000000513D03FA000000000000A0AC
+t1362953210
+s41132
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation13.png
+c00000000513D03FA0000000000003369
+t1362953210
+s13161
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation13@2x.png
+c00000000513D03FA000000000000A1B2
+t1362953210
+s41394
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation14.png
+c00000000513D03FA000000000000335D
+t1362953210
+s13149
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation14@2x.png
+c00000000513D03FA000000000000A0EB
+t1362953210
+s41195
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation15.png
+c00000000513D03FA000000000000338F
+t1362953210
+s13199
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation15@2x.png
+c00000000513D03FA000000000000A0C4
+t1362953210
+s41156
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation16.png
+c00000000513D03FA000000000000336A
+t1362953210
+s13162
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation16@2x.png
+c00000000513D03FA000000000000A0B2
+t1362953210
+s41138
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation17.png
+c00000000513D03FA0000000000003366
+t1362953210
+s13158
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation17@2x.png
+c00000000513D03FA000000000000A000
+t1362953210
+s40960
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation18.png
+c00000000513D03FA0000000000003350
+t1362953210
+s13136
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation18@2x.png
+c00000000513D03FA0000000000009F8A
+t1362953210
+s40842
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation19.png
+c00000000513D03FA000000000000334C
+t1362953210
+s13132
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation19@2x.png
+c00000000513D03FA000000000000A096
+t1362953210
+s41110
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation1@2x.png
+c00000000513D03FA000000000000A09C
+t1362953210
+s41116
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation2.png
+c00000000513D03FA0000000000003355
+t1362953210
+s13141
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation20.png
+c00000000513D03FA0000000000003372
+t1362953210
+s13170
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation20@2x.png
+c00000000513D03FA0000000000009FBF
+t1362953210
+s40895
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation21.png
+c00000000513D03FA000000000000339F
+t1362953210
+s13215
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation21@2x.png
+c00000000513D03FA000000000000A18B
+t1362953210
+s41355
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation22.png
+c00000000513D03FA000000000000334A
+t1362953210
+s13130
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation22@2x.png
+c00000000513D03FA000000000000A0E1
+t1362953210
+s41185
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation23.png
+c00000000513D03FA0000000000003397
+t1362953210
+s13207
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation23@2x.png
+c00000000513D03FA000000000000A16F
+t1362953210
+s41327
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation24.png
+c00000000513D03FA00000000000033B6
+t1362953210
+s13238
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation24@2x.png
+c00000000513D03FA000000000000A082
+t1362953210
+s41090
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation25.png
+c00000000513D03FA000000000000338C
+t1362953210
+s13196
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation25@2x.png
+c00000000513D03FA000000000000A046
+t1362953210
+s41030
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation26.png
+c00000000513D03FA000000000000338A
+t1362953210
+s13194
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation26@2x.png
+c00000000513D03FA0000000000009F81
+t1362953210
+s40833
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation27.png
+c00000000513D03FA00000000000033A5
+t1362953210
+s13221
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation27@2x.png
+c00000000513D03FA000000000000A027
+t1362953210
+s40999
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation28.png
+c00000000513D03FA000000000000335D
+t1362953210
+s13149
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation28@2x.png
+c00000000513D03FA000000000000A09D
+t1362953210
+s41117
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation29.png
+c00000000513D03FA0000000000003388
+t1362953210
+s13192
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation29@2x.png
+c00000000513D03FA000000000000A097
+t1362953210
+s41111
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation2@2x.png
+c00000000513D03FA000000000000A095
+t1362953210
+s41109
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation3.png
+c00000000513D03FA000000000000335E
+t1362953210
+s13150
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation30.png
+c00000000513D03FA0000000000003397
+t1362953210
+s13207
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation30@2x.png
+c00000000513D03FA000000000000A04C
+t1362953210
+s41036
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation31.png
+c00000000513D03FA00000000000033B0
+t1362953210
+s13232
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation31@2x.png
+c00000000513D03FA000000000000A0F9
+t1362953210
+s41209
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation32.png
+c00000000513D03FA00000000000033BC
+t1362953210
+s13244
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation32@2x.png
+c00000000513D03FA000000000000A075
+t1362953210
+s41077
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation33.png
+c00000000513D03FA0000000000003363
+t1362953210
+s13155
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation33@2x.png
+c00000000513D03FA000000000000A055
+t1362953210
+s41045
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation34.png
+c00000000513D03FA000000000000331E
+t1362953210
+s13086
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation34@2x.png
+c00000000513D03FA000000000000A0E5
+t1362953210
+s41189
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation35.png
+c00000000513D03FA00000000000033AB
+t1362953210
+s13227
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation35@2x.png
+c00000000513D03FA000000000000A033
+t1362953210
+s41011
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation3@2x.png
+c00000000513D03FA000000000000A0F9
+t1362953210
+s41209
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation4.png
+c00000000513D03FA000000000000333F
+t1362953210
+s13119
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation4@2x.png
+c00000000513D03FA000000000000A0E0
+t1362953210
+s41184
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation5.png
+c00000000513D03FA00000000000033B9
+t1362953210
+s13241
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation5@2x.png
+c00000000513D03FA000000000000A09B
+t1362953210
+s41115
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation6.png
+c00000000513D03FA00000000000033BC
+t1362953210
+s13244
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation6@2x.png
+c00000000513D03FA000000000000A0EC
+t1362953210
+s41196
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation7.png
+c00000000513D03FA0000000000003372
+t1362953210
+s13170
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation7@2x.png
+c00000000513D03FA000000000000A24B
+t1362953210
+s41547
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation8.png
+c00000000513D03FA0000000000003386
+t1362953210
+s13190
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation8@2x.png
+c00000000513D03FA000000000000A0DE
+t1362953210
+s41182
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation9.png
+c00000000513D03FA00000000000033AB
+t1362953210
+s13227
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/GearAnimation9@2x.png
+c00000000513D03FA000000000000A182
+t1362953210
+s41346
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MBProgressHUD.m
+c00000000513D03FA00000000000067A7
+t1362953210
+s26535
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MMPDeepSleepPreventer.m
+c00000000513D03FA00000000000021E1
+t1362953210
+s8673
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MMPSilence.caf
+c00000000513D03FA0000000000001B9C
+t1362953210
+s7068
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingViewController.m
+c00000000513D03FA00000000000034F5
+t1362953210
+s13557
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingsTableViewController.m
+c00000000513D03FA00000000000081D2
+t1362953210
+s33234
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/SuperBackgrounder.m
+c00000000513D03FA0000000000000A8E
+t1362953210
+s2702
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/ToUploadCell.m
+c00000000513D03FA000000000000025E
+t1362953210
+s606
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoAndAudioMerger.m
+c00000000513D03FA0000000000000F8E
+t1362953210
+s3982
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoCapture.m
+c00000000513D03FA0000000000008E27
+t1362953210
+s36391
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoSettingsTableViewController.m
+c00000000513D03FA0000000000002535
+t1362953210
+s9525
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blackButton.png
+c00000000513D03FA0000000000000545
+t1362953210
+s1349
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blackButton@2x.png
+c00000000513D03FA000000000000071A
+t1362953210
+s1818
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blackButtonHighlight.png
+c00000000513D03FA000000000000056E
+t1362953210
+s1390
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blackButtonHighlight@2x.png
+c00000000513D03FA00000000000006A0
+t1362953210
+s1696
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blueButton.png
+c00000000513D03FA0000000000000604
+t1362953210
+s1540
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blueButton@2x.png
+c00000000513D03FA000000000000080C
+t1362953210
+s2060
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blueButtonHighlight.png
+c00000000513D03FA000000000000059C
+t1362953210
+s1436
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/blueButtonHighlight@2x.png
+c00000000513D03FA00000000000007FB
+t1362953210
+s2043
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/en.lproj/InfoPlist.strings
+c00000000513D03FA000000000000002D
+t1362953210
+s45
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/en.lproj/MainStoryboard.storyboard
+c00000000513D03FA000000000000B938
+t1362953210
+s47416
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/en.lproj/MainStoryboard_iPad.storyboard
+c00000000513D03FA000000000000BAFE
+t1362953210
+s47870
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greenButton.png
+c00000000513D03FA00000000000005AB
+t1362953210
+s1451
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greenButton@2x.png
+c00000000513D03FA00000000000007D9
+t1362953210
+s2009
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greenButtonHighlight.png
+c00000000513D03FA00000000000005A1
+t1362953210
+s1441
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greenButtonHighlight@2x.png
+c00000000513D03FA00000000000007F3
+t1362953210
+s2035
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greyButton.png
+c00000000513D03FA0000000000000538
+t1362953210
+s1336
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greyButton@2x.png
+c00000000513D03FA00000000000006F1
+t1362953210
+s1777
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greyButton@2xpng
+c00000000513D03FA00000000000006F1
+t1362953210
+s1777
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greyButtonHighlight.png
+c00000000513D03FA0000000000000541
+t1362953210
+s1345
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/greyButtonHighlight@2x.png
+c00000000513D03FA00000000000006FB
+t1362953210
+s1787
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/main.m
+c00000000513D03FA0000000000000155
+t1362953210
+s341
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/orangeButton.png
+c00000000513D03FA00000000000005B4
+t1362953210
+s1460
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/orangeButton@2x.png
+c00000000513D03FA00000000000007BB
+t1362953210
+s1979
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/orangeButtonHighlight.png
+c00000000513D03FA00000000000005AE
+t1362953210
+s1454
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/orangeButtonHighlight@2x.png
+c00000000513D03FA00000000000007D1
+t1362953210
+s2001
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/socialShare.png
+c00000000513D03FA0000000000000844
+t1362953210
+s2116
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/socialShare@2x.png
+c00000000513D03FA0000000000000AB7
+t1362953210
+s2743
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/socialShareHighlight.png
+c00000000513D03FA0000000000000889
+t1362953210
+s2185
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/socialShareHighlight@2x.png
+c00000000513D03FA0000000000000AD6
+t1362953210
+s2774
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/tanButton.png
+c00000000513D03FA00000000000005AD
+t1362953210
+s1453
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/tanButton@2x.png
+c00000000513D03FA00000000000007BB
+t1362953210
+s1979
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/tanButtonHighlight.png
+c00000000513D03FA0000000000000594
+t1362953210
+s1428
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/tanButtonHighlight@2x.png
+c00000000513D03FA00000000000007AF
+t1362953210
+s1967
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/whiteButton.png
+c00000000513D03FA000000000000054A
+t1362953210
+s1354
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/whiteButton@2x.png
+c00000000513D03FA00000000000006E0
+t1362953210
+s1760
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/whiteButtonHighlight.png
+c00000000513D03FA000000000000054D
+t1362953210
+s1357
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/whiteButtonHighlight@2x.png
+c00000000513D03FA0000000000000704
+t1362953210
+s1796
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/Default-Landscape@2x~ipad.png
+c00000000513D03FA0000000000014051
+t1362953210
+s82001
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/Default-Landscape~ipad.png
+c00000000513D03FA0000000000003D42
+t1362953210
+s15682
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/Default-Portrait@2x~ipad.png
+c00000000513D03FA00000000000145E1
+t1362953210
+s83425
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/Default-Portrait~ipad.png
+c00000000513D03FA0000000000006128
+t1362953210
+s24872
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/DropboxSDK.framework/DropboxSDK
+c00000000513D03FA00000000001647C0
+t1362953210
+s1460160
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/DropboxSDK.framework/Headers/DropboxSDK.h
+c00000000513D03FA00000000000001A7
+t1362953210
+s423
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AllOrientationsTabBarController.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AudioCaptureTest.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/BackgroundCapture.LinkFileList
+c000000005141A15A0000000000000C5C
+t1363255642
+s3164
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/BackgroundScreenCapture.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/DropboxUpload.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/FileCell.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/MBProgressHUD.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/MMPDeepSleepPreventer.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/RecordingViewController.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/RecordingsTableViewController.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/SuperBackgrounder.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/ToUploadCell.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoAndAudioMerger.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoCapture.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoSettingsTableViewController.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app.dSYM
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/37x-Checkmark.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/37x-Checkmark@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/BackgroundCapture
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Default@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation0.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation0@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation1.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation10.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation10@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation11.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation11@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation12.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation12@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation13.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation13@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation14.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation14@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation15.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation15@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation16.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation16@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation17.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation17@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation18.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation18@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation19.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation19@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation1@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation2.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation20.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation20@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation21.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation21@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation22.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation22@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation23.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation23@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation24.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation24@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation25.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation25@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation26.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation26@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation27.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation27@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation28.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation28@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation29.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation29@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation2@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation3.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation30.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation30@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation31.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation31@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation32.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation32@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation33.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation33@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation34.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation34@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation35.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation35@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation3@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation4.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation4@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation5.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation5@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation6.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation6@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation7.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation7@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation8.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation8@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation9.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation9@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/MMPSilence.caf
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/PkgInfo
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blackButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blackButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blackButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blackButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blueButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blueButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blueButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/blueButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greenButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greenButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greenButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greenButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greyButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greyButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greyButton@2xpng
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greyButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/greyButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/orangeButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/orangeButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/orangeButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/orangeButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/socialShare.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/socialShare@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/socialShareHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/socialShareHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/tanButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/tanButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/tanButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/tanButtonHighlight@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/whiteButton.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/whiteButton@2x.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/whiteButtonHighlight.png
+t2
+s0
+
+N/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/whiteButtonHighlight@2x.png
+t2
+s0
+
+N/var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth
+t2
+s0
+
+NBackgroundCapture/BackgroundCapture-Info.plist
+c00000000513D03FA000000000000074C
+t1362953210
+s1868
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AllOrientationsTabBarController.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AudioCaptureTest.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundScreenCapture.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/DropboxUpload.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/FileCell.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MBProgressHUD.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MMPDeepSleepPreventer.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingViewController.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingsTableViewController.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/SuperBackgrounder.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/ToUploadCell.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoAndAudioMerger.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoCapture.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoSettingsTableViewController.m"
+r0
+
+CBuild AST from "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies091b16dad8f1b641^043d1cdbd8f1b641^---0#1#0#--18"Check dependencies36"0D0E1110-3F4C-4AE5-85E6-B6BE4713C779-
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AllOrientationsTabBarController.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AllOrientationsTabBarController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AppDelegate.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/AudioCaptureTest.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/AudioCaptureTest.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/BackgroundScreenCapture.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundScreenCapture.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/DropboxUpload.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/DropboxUpload.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/FileCell.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/FileCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/MBProgressHUD.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MBProgressHUD.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/MMPDeepSleepPreventer.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/MMPDeepSleepPreventer.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/RecordingViewController.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/RecordingsTableViewController.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/RecordingsTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/SuperBackgrounder.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/SuperBackgrounder.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/ToUploadCell.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/ToUploadCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoAndAudioMerger.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoAndAudioMerger.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoCapture.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoCapture.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/VideoSettingsTableViewController.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/VideoSettingsTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/Objects-normal/i386/main.o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/en.lproj/MainStoryboard.storyboard"
+r0
+
+CCompileStoryboard "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/en.lproj/MainStoryboard_iPad.storyboard"
+r0
+
+CCopyStringsFile "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/en.lproj/InfoPlist.strings" BackgroundCapture/en.lproj/InfoPlist.strings
+r0
+
+CCpResource BackgroundCapture/37x-Checkmark.png build/Debug-iphonesimulator/BackgroundCapture.app/37x-Checkmark.png
+r0
+
+CCpResource BackgroundCapture/37x-Checkmark@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/37x-Checkmark@2x.png
+r0
+
+CCpResource BackgroundCapture/Default-568h@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/Default-568h@2x.png
+r0
+
+CCpResource BackgroundCapture/Default.png build/Debug-iphonesimulator/BackgroundCapture.app/Default.png
+r0
+
+CCpResource BackgroundCapture/Default@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/Default@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation0.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation0.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation0@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation0@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation1.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation1.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation10.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation10.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation10@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation10@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation11.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation11.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation11@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation11@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation12.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation12.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation12@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation12@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation13.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation13.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation13@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation13@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation14.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation14.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation14@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation14@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation15.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation15.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation15@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation15@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation16.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation16.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation16@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation16@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation17.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation17.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation17@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation17@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation18.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation18.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation18@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation18@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation19.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation19.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation19@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation19@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation1@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation1@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation2.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation2.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation20.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation20.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation20@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation20@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation21.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation21.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation21@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation21@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation22.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation22.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation22@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation22@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation23.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation23.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation23@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation23@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation24.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation24.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation24@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation24@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation25.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation25.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation25@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation25@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation26.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation26.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation26@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation26@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation27.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation27.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation27@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation27@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation28.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation28.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation28@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation28@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation29.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation29.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation29@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation29@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation2@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation2@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation3.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation3.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation30.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation30.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation30@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation30@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation31.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation31.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation31@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation31@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation32.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation32.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation32@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation32@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation33.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation33.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation33@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation33@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation34.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation34.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation34@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation34@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation35.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation35.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation35@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation35@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation3@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation3@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation4.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation4.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation4@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation4@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation5.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation5.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation5@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation5@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation6.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation6.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation6@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation6@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation7.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation7.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation7@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation7@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation8.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation8.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation8@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation8@2x.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation9.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation9.png
+r0
+
+CCpResource BackgroundCapture/GearAnimation9@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/GearAnimation9@2x.png
+r0
+
+CCpResource BackgroundCapture/MMPSilence.caf build/Debug-iphonesimulator/BackgroundCapture.app/MMPSilence.caf
+r0
+
+CCpResource BackgroundCapture/blackButton.png build/Debug-iphonesimulator/BackgroundCapture.app/blackButton.png
+r0
+
+CCpResource BackgroundCapture/blackButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/blackButton@2x.png
+r0
+
+CCpResource BackgroundCapture/blackButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/blackButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/blackButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/blackButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/blueButton.png build/Debug-iphonesimulator/BackgroundCapture.app/blueButton.png
+r0
+
+CCpResource BackgroundCapture/blueButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/blueButton@2x.png
+r0
+
+CCpResource BackgroundCapture/blueButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/blueButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/blueButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/blueButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/greenButton.png build/Debug-iphonesimulator/BackgroundCapture.app/greenButton.png
+r0
+
+CCpResource BackgroundCapture/greenButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/greenButton@2x.png
+r0
+
+CCpResource BackgroundCapture/greenButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/greenButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/greenButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/greenButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/greyButton.png build/Debug-iphonesimulator/BackgroundCapture.app/greyButton.png
+r0
+
+CCpResource BackgroundCapture/greyButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/greyButton@2x.png
+r0
+
+CCpResource BackgroundCapture/greyButton@2xpng build/Debug-iphonesimulator/BackgroundCapture.app/greyButton@2xpng
+r0
+
+CCpResource BackgroundCapture/greyButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/greyButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/greyButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/greyButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/orangeButton.png build/Debug-iphonesimulator/BackgroundCapture.app/orangeButton.png
+r0
+
+CCpResource BackgroundCapture/orangeButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/orangeButton@2x.png
+r0
+
+CCpResource BackgroundCapture/orangeButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/orangeButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/orangeButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/orangeButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/socialShare.png build/Debug-iphonesimulator/BackgroundCapture.app/socialShare.png
+r0
+
+CCpResource BackgroundCapture/socialShare@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/socialShare@2x.png
+r0
+
+CCpResource BackgroundCapture/socialShareHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/socialShareHighlight.png
+r0
+
+CCpResource BackgroundCapture/socialShareHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/socialShareHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/tanButton.png build/Debug-iphonesimulator/BackgroundCapture.app/tanButton.png
+r0
+
+CCpResource BackgroundCapture/tanButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/tanButton@2x.png
+r0
+
+CCpResource BackgroundCapture/tanButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/tanButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/tanButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/tanButtonHighlight@2x.png
+r0
+
+CCpResource BackgroundCapture/whiteButton.png build/Debug-iphonesimulator/BackgroundCapture.app/whiteButton.png
+r0
+
+CCpResource BackgroundCapture/whiteButton@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/whiteButton@2x.png
+r0
+
+CCpResource BackgroundCapture/whiteButtonHighlight.png build/Debug-iphonesimulator/BackgroundCapture.app/whiteButtonHighlight.png
+r0
+
+CCpResource BackgroundCapture/whiteButtonHighlight@2x.png build/Debug-iphonesimulator/BackgroundCapture.app/whiteButtonHighlight@2x.png
+r0
+
+CCpResource Default-Landscape@2x~ipad.png build/Debug-iphonesimulator/BackgroundCapture.app/Default-Landscape@2x~ipad.png
+r0
+
+CCpResource Default-Landscape~ipad.png build/Debug-iphonesimulator/BackgroundCapture.app/Default-Landscape~ipad.png
+r0
+
+CCpResource Default-Portrait@2x~ipad.png build/Debug-iphonesimulator/BackgroundCapture.app/Default-Portrait@2x~ipad.png
+r0
+
+CCpResource Default-Portrait~ipad.png build/Debug-iphonesimulator/BackgroundCapture.app/Default-Portrait~ipad.png
+r0
+
+CGenerateDSYMFile "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app.dSYM" "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/BackgroundCapture"
+r0
+
+CLd "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/BackgroundCapture" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist" BackgroundCapture/BackgroundCapture-Info.plist
+s384948442.851380
+e384948442.934859
+r1
+xProcessInfoPlistFile
+x/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist
+xBackgroundCapture/BackgroundCapture-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process BackgroundCapture/BackgroundCapture-Info.plist5e13dadad8f1b641^8db41cdbd8f1b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Shadar/Dropbox/iOS%20Recorder%20(1)/NEW%20SUPER_BACKGROUNDER%20Background%20Capture/BackgroundCapture/BackgroundCapture-Info.plist0000000000000000^852"ProcessInfoPlistFile build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist BackgroundCapture/BackgroundCapture-Info.plist    cd "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BackgroundCapture/BackgroundCapture-Info.plist -genpkginfo "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app/Info.plist"36"48B324B7-CB86-448A-B83B-9E8B6F4656F9-
+
+CProcessPCH /Users/Shadar/Library/Developer/Xcode/DerivedData/BackgroundCapture-gyonpfnittwsikfyhrdvwslszkls/Index/PrecompiledHeaders/BackgroundCapture-Prefix-bpditsbwjjryxrgyhvkodicqqlcn_ast/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Shadar/Library/Developer/Xcode/DerivedData/BackgroundCapture-gyonpfnittwsikfyhrdvwslszkls/Index/PrecompiledHeaders/BackgroundCapture-Prefix-hkpjypzajlqeikdrdfkiagxifdwz_ast/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384948442.949641
+e384948456.930043
+r0
+xProcessPCH
+x/var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth
+xBackgroundCapture/BackgroundCapture-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile BackgroundCapture/BackgroundCapture-Prefix.pch3f53f3dad8f1b641^7b82d8ead8f1b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Shadar/Dropbox/iOS%20Recorder%20(1)/NEW%20SUPER_BACKGROUNDER%20Background%20Capture/BackgroundCapture/BackgroundCapture-Prefix.pch0000000000000000^4264"ProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-generated-files.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-own-target-headers.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-all-target-headers.hmap" -iquote "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-project-headers.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/include" -IBackgroundCapture/headers -IBackgroundCapture/headers/CoreSurface -IBackgroundCapture/headers/Headers -IBackgroundCapture/headers/IOKit "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/DerivedSources/i386" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/DerivedSources" "-F/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator" -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/PrivateFrameworks "-F/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture" --serialize-diagnostics /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.dia -c "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundCapture-Prefix.pch" -o /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-cxyxnndvbgnmxvcqotqfqgbpsaap/BackgroundCapture-Prefix.pch.d36"200E80D0-1DB9-4964-A83F-2ACE76A3E257-
+
+CProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384948442.950795
+e384948456.922155
+r0
+xProcessPCH
+x/var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth
+xBackgroundCapture/BackgroundCapture-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile BackgroundCapture/BackgroundCapture-Prefix.pch5c21f4dad8f1b641^e17ad8ead8f1b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Shadar/Dropbox/iOS%20Recorder%20(1)/NEW%20SUPER_BACKGROUNDER%20Background%20Capture/BackgroundCapture/BackgroundCapture-Prefix.pch0000000000000000^4278"ProcessPCH /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth BackgroundCapture/BackgroundCapture-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-generated-files.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-own-target-headers.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-all-target-headers.hmap" -iquote "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/BackgroundCapture-project-headers.hmap" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/include" -IBackgroundCapture/headers -IBackgroundCapture/headers/CoreSurface -IBackgroundCapture/headers/Headers -IBackgroundCapture/headers/IOKit "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/DerivedSources/i386" "-I/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/BackgroundCapture.build/Debug-iphonesimulator/BackgroundCapture.build/DerivedSources" "-F/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator" -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/PrivateFrameworks "-F/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture" -fno-objc-arc --serialize-diagnostics /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.dia -c "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/BackgroundCapture/BackgroundCapture-Prefix.pch" -o /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/bx/65rygh4n2w126cg86sgfx9pr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/BackgroundCapture-Prefix-fddzqftygqddesggejomvzltcrqx/BackgroundCapture-Prefix.pch.d36"AC64EC82-CA4B-4AB1-96E6-B56C21C07428-
+
+CTouch "/Users/Shadar/Dropbox/iOS Recorder (1)/NEW SUPER_BACKGROUNDER Background Capture/build/Debug-iphonesimulator/BackgroundCapture.app"
+r0
+
